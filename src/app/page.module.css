@@ -1,0 +1,376 @@
+
+.section1 {
+  height: 743px;
+  width: 100%;
+  background: rgba(16, 144, 203, 0.1);
+}
+
+.section1Header {
+  width: 39rem;
+  height: 193px;
+  font-size: 41px;
+  font-weight: 700;
+  line-height: 60px;
+  position: absolute;
+  top: 14rem;
+  left: 8rem;
+}
+
+.section1text {
+  width: 36rem;
+  height: 125px;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 400;
+  color: #5c5c5c;
+  position: absolute;
+  top: 26rem;
+  left: 8rem;
+}
+
+.buttonContainer {
+  display: flex;
+  gap: 20px;
+  position: absolute;
+  left: 8rem;
+  top: 37rem;
+}
+
+.highlightedText {
+  color: #1090cb;
+}
+
+.radial {
+  width: 31rem;
+  height: 31.5rem;
+  position: absolute;
+  right: 1.625rem;
+  top: 6.56rem;
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    #fdffea 0%,
+    rgba(196, 196, 196, 0) 100%
+  );
+}
+.smallPlant {
+  position: absolute;
+  top: 18.188rem;
+  right: 30.563rem;
+}
+
+.bigPlant {
+  position: absolute;
+  top: 34.188rem;
+  right: 4.063rem;
+}
+.bill {
+  position: absolute;
+  top: 1rem;
+  right: 9.563rem;
+}
+
+.brick {
+  position: absolute;
+  top: 12.183rem;
+  right: 5.329rem;
+}
+
+.design {
+  position: absolute;
+  right: 0;
+  top: 17rem;
+}
+
+.design1 {
+  position: absolute;
+  left: 0;
+  top: 20rem;
+}
+
+.section2 {
+  width: 100%;
+  height: 164px;
+  border-bottom: 0.7px solid #c7c7c7;
+}
+
+.section2Inner {
+  display: flex;
+  gap: 10px;
+  padding-top: 40px;
+  padding-left: 123px;
+  padding-right: 123px;
+  justify-content: space-between;
+}
+
+.webApplication {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.webApplicationDiv {
+  width: 83px;
+  height: 82px;
+  border-radius: 20px;
+  background: #efeaff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.section3Header {
+  text-align: center;
+  gap: 32px;
+  padding-top: 115px;
+}
+
+.section3HerosectiondivFlexBox{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 55px;
+  gap: 50px;
+  width: 100%;
+  padding-left: 123px;
+  padding-right: 65px;
+}
+
+.flexBox2{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding-top: 181px;
+  padding-left: 123px;
+  padding-right: 65px;
+  gap: 50px;
+}
+
+
+.section3Herosectiondiv {
+  padding-top: 105px;
+  width: 476px;
+}
+
+.section3Herosectiondiv_top {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.section3Herosectiondiv_topImage {
+  border-radius: 29px;
+  height: 58px;
+  width: 58px;
+  background: #08d3bb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section3Herosectiondiv_mainP {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #545454;
+  line-height: 27px;
+}
+
+.section3Herosectiondiv_mainH {
+  font-size: 1.875rem;
+  line-height: 51px;
+  font-weight: 600;
+}
+
+.section3Image1 {
+  z-index: 1;
+}
+
+.radial2 {
+  position: absolute;
+  top: 1351px;
+  right: 0;
+  z-index: 2;
+}
+
+.radial3 {
+  width: 31rem;
+  height: 31.5rem;
+  position: absolute;
+  background: radial-gradient(
+    60% 60% at 50% 50%,
+    #f3ffd9 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  top: 123.75rem;
+  z-index: 1;
+}
+
+.section3Image2 {
+  z-index: 2;
+}
+
+.section3Herosectiondiv1 {
+  padding-top: 95px;
+  width: 476px;
+}
+
+.flexBox3{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding-top: 86px;
+  padding-left: 123px;
+  padding-right: 65px;
+  gap: 20px;
+}
+
+.section3Herosectiondiv2 {
+  width: 476px;
+  padding-top: 96px;
+  
+}
+
+.radial4 {
+  width: 497px;
+  height: 505px;
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    #ded9ff 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  position: absolute;
+  right: 0px;
+  top: 166.063rem;
+  z-index: 1;
+}
+
+.section3Image3 {
+  z-index: 2;
+}
+
+.section3CradDiv {
+  padding-top: 234px;
+  width: 100%;
+}
+
+.section3Cards {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 123px;
+  padding-right: 123px;
+  gap: 50px;
+}
+
+.card {
+  width: 35.75rem;
+  height: 28.688rem;
+  background: #f4f4f4;
+  border-radius: 20px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 64px;
+  padding-left: 48px;
+  padding-right: 48px;
+}
+
+.cardTitle {
+  font-size: 1.563rem;
+  font-weight: 600;
+  line-height: 42.5px;
+  color: #252525;
+  width: 369px;
+  text-align: center;
+  padding-left: 100px;
+}
+
+.cardContent {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 27.2px;
+  color: #545454;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.section3BottomT {
+  padding-top: 184px;
+  width: 100%;
+}
+
+.section3BottomTitle {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 38.16px;
+  color: #000000;
+}
+
+.radial5 {
+  width: 31rem;
+  height: 31.5rem;
+  position: absolute;
+  background: radial-gradient(
+    30% 30% at 20% 60%,
+    #f3ffd9 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  top: 3819px;
+}
+
+.section3BottomDiv {
+  padding-top: 11px;
+  width: 100%;
+  padding-bottom: 89px;
+}
+.section3BottomDivImage {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 200px;
+  padding-right: 200px;
+  gap: 115px;
+}
+
+.section4 {
+  width: 100%;
+  height: 33.375rem;
+  background: #e8f4fa;
+}
+
+
+.section4Header {
+  width: 100%;
+  text-align: center;
+  padding-top: 148px;
+  font-size: 1.875rem;
+  font-weight: 600;
+  line-height: 51x;
+  color: #252525;
+}
+
+.section4InputDiv {
+  display: flex;
+  justify-content: center;
+  padding-left: 360px;
+  padding-right: 361px;
+  gap: 14px;
+  padding-top: 80px;
+}
+
+.section4Input {
+  width: 532px;
+  background: #ffffff;
+  box-shadow: 0px 4px 84px rgba(0, 0, 0, 0.07);
+  border-radius: 10px;
+  border: 0px;
+  padding-left: 3%;
+  font-size: 16px;
+}
+
+
+@media (max-width: 1370px) {
+  .section1{
+    width: auto;
+  }
+}
